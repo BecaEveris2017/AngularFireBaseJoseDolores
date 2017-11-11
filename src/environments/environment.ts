@@ -6,11 +6,11 @@
 export const environment = {
   production: false,
   firebaseConfig:{
-    apiKey: "AIzaSyAntq6Npikl0Zk1uh6Bj4OnHI573xP2GEc",
-    authDomain: "registroempleados-124cf.firebaseapp.com",
-    databaseURL: "https://registroempleados-124cf.firebaseio.com",
-    projectId: "registroempleados-124cf",
-    storageBucket: "registroempleados-124cf.appspot.com",
-    messagingSenderId: "630822624695"
+    apiKey: "AIzaSyA6NwLTTuZt-ZuhCnuznvJWAtUuYeNRmE4",
+    authDomain: "empleadosregistro-26b75.firebaseapp.com",
+    databaseURL: "https://empleadosregistro-26b75.firebaseio.com",
+    projectId: "empleadosregistro-26b75",
+    storageBucket: "empleadosregistro-26b75.appspot.com",
+    messagingSenderId: "829289836974"
   }
 };
